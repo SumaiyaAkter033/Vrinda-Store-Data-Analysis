@@ -34,6 +34,17 @@ Special thanks to the creator for providing guidance and inspiration.
    - Order Status: Analysis of order completion status.
    - States: Sales by geographical location.
 
+
+## Dashboard Screenshot
+Below is a preview of the Excel report sheet:
+
+![Report Sheet](https://github.com/SumaiyaAkter033/Vrinda-Store-Data-Analysis/blob/main/Screenshot%202025-01-28%20200017.png)
+
+
 ## License
 This project is for educational purposes only. Credits to the Rishabh Mishra
 (https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLdOKnrf8EcP3HmVrsXxfzxL9Jv0KR3I4x) for the tutorial inspiration.
+
+
+
+
